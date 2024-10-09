@@ -1,5 +1,6 @@
 import React from 'react';
 import Dashboard from './components/Dashboard';
+import Taildind from "./components/Taildind";
 
 const App = () => {
     return (
@@ -12,6 +13,7 @@ const App = () => {
                 </p>
             </div>
             <Dashboard/>
+            <Taildind/>
         </div>
     );
 };
