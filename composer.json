@@ -1,0 +1,15 @@
+{
+    "name": "nextbit/react-setup",
+    "autoload": {
+        "psr-4": {
+            "Nextbit\\ReactSetup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RIKO910",
+            "email": "tarikulislamriko910@gmail.com"
+        }
+    ],
+    "require": {}
+}
